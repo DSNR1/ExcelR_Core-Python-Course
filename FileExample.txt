@@ -1,2 +1,0 @@
-Welcome to file handling in python. 
-This is second line. 
