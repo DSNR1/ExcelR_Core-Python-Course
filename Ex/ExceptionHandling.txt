@@ -1,0 +1,3 @@
+Opening the file.
+The final result is 6.666666666666667
+Closing the file 
